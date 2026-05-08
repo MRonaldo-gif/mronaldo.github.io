@@ -17,42 +17,105 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursuing my Ph.D. in **Robotics and Autonomous Systems** at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) (HKUST-GZ), under the supervision of [Prof. Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). Prior to joining HKUST-GZ, I received my B.Eng. in **Artificial Intelligence** from South China Agricultural University (SCAU) in 2024. I also serve as an **AI Algorithm Engineer** at [CLAI-LAB](https://clai-lab.com/), where I am leading a humanoid robot R&D team and a multi-agent collaboration research team. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests span **Humanoid Robotics**, **Locomotion & Parkour**, **Whole Body Control**, **Motion Tracking**, **Vision-Language-Action (VLA)**, and **Computer Vision**. I am passionate about building embodied intelligent systems that can perceive, reason, and act in the physical world. I have published several papers in top-tier agricultural AI journals.
+
+I won **3rd place** at the **2025 World Humanoid Robot Games** (Field Events) and have been recognized with the **Annual Outstanding Employee (Innovation Award, 2024)** and multiple national/provincial competition awards.
+
+<div style="display:flex; align-items:center; gap:24px; margin:16px 0;">
+  <a href="https://www.hkust-gz.edu.cn/" target="_blank">
+    <img src="images/logo-hkustgz.png" alt="HKUST(GZ)" style="height:50px; object-fit:contain;">
+  </a>
+  <a href="https://www.scau.edu.cn/" target="_blank">
+    <img src="images/logo-scau.jpg" alt="SCAU" style="height:70px; object-fit:contain;">
+  </a>
+  <a href="https://clai-lab.com/" target="_blank">
+    <img src="images/logo-company.jpeg" alt="Company" style="height:80px; object-fit:contain;">
+  </a>
+</div>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026-now*: &nbsp;🎉 Started my PhD journey at HKUST(GZ) in Robotics and Autonomous Systems!
+- *2025.08*: &nbsp;🏆 Won **3rd place** at the 2025 World Humanoid Robot Games (martial arts)!
+- *2025.10*: &nbsp;🥇 Our team won **Champion** at the Zayed Charity Run Robot Marathon!
+- *2025.09*: &nbsp;🏅 Our team won **Outstanding Award** at the "巧手点天工" Aviation Dexterous Hand Elite Competition!
+- *2024.12*: &nbsp;📄 **IA-YOLO** accepted by *Agriculture* (JCR Q1 / SCI Q2, IF=3.3) as Corresponding Author!
+- *2024.06*: &nbsp;📄 **Taoism-Net** published in *Agronomy* (JCR Q1 / SCI Q2, IF=3.7) as First Author!
+- *2024.03*: &nbsp;🚀 Started as AI Algorithm Engineer, leading humanoid robot R&D and multi-agent research projects.
+- *2024.12*: &nbsp;🏆 Awarded **Annual Outstanding Employee (Innovation Award)** at my company.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agronomy 2024</div><img src='images/agriculture.jpeg' alt="Taoism-Net" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Taoism-Net: A Fruiter Segmentation Model Based on Minimalism Design for UAV Camera](https://doi.org/10.3390/agronomy14061155)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yanheng Mai**, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Agronomy*, 2024, 14(6), 1155. **JCR Q1 / SCI Q2**, IF=3.7
+
+[**DOI**](https://doi.org/10.3390/agronomy14061155) &nbsp; **First Author**
+- Proposed a minimalist-design segmentation model (Taoism-Net) for drone-view fruit detection, achieving state-of-the-art accuracy with significantly reduced model complexity.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agriculture 2024</div><img src='images/agronomy.jpeg' alt="IA-YOLO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IA-YOLO: An Efficient Vatica Segmentation Model Based on Inverted Attention Block for Drone Camera](https://doi.org/10.3390/agriculture14122252)
+
+..., **Yanheng Mai** (Corresponding Author)
+
+*Agriculture*, 2024, 14(12), 2252. **JCR Q1 / SCI Q2**, IF=3.3
+
+[**DOI**](https://doi.org/10.3390/agriculture14122252) &nbsp; **Corresponding Author**
+- Designed an inverted attention mechanism integrated into YOLO for efficient semantic segmentation on UAV imagery in precision agriculture.
+</div>
+</div>
+
+
+- **基于CNNs和Transformer混合的茶田路径分割模型** — *中国农机化学报（Journal of Chinese Agricultural Mechanization）* (北大核心), 2026, IF=1.6. **First Author**. DOI: [10.13733/j.jcam.issn.2095-5553.2026.02.029](https://doi.org/10.13733/j.jcam.issn.2095-5553.2026.02.029)
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* &nbsp; 🥉 **3rd Place** — 2025 World Humanoid Robot Games (世界人形机器人运动会), Field Events
+- *2025* &nbsp; 🏆 **Champion** — Zayed Charity Run Robot Marathon (扎耶德慈善跑机器人马拉松)
+- *2025* &nbsp; 🏅 **Outstanding Team** — "巧手点天工·航空灵巧手菁英赛"
+- *2024* &nbsp; 🌟 **Annual Outstanding Employee (Innovation Award)** — Semiconductor Company
+- *2023* &nbsp; **Second-class Scholarship** — South China Agricultural University
+- *2023* &nbsp; **Provincial Bronze** — China "互联网+" Innovation & Entrepreneurship Competition
+- *2022* &nbsp; **Provincial Bronze** — China "互联网+" Innovation & Entrepreneurship Competition
+- *2022* &nbsp; **Provincial Second Prize** — Guangdong "高教社杯" Mathematical Modeling Competition
+- *2022* &nbsp; **Second Prize** — Asia-Pacific Mathematical Modeling Competition (APMCM)
+- *2022* &nbsp; **Provincial First Prize** — Guangdong Agricultural Machinery Electronics Competition
+- *2021* &nbsp; **School-level First Prize** — "Intel" Cup AI Competition
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026 - present* &nbsp; **Ph.D. in Robotics and Autonomous Systems** — The Hong Kong University of Science and Technology (Guangzhou), HKUST-GZ
+- *2020 - 2024* &nbsp; **B.Eng. in Artificial Intelligence** — South China Agricultural University (SCAU, 双一流高校)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience & Projects
+
+- *2024.03 - present* &nbsp; **AI Algorithm Engineer** — CLAI-LAB (Computer Vision, Embodied AI & Robotics Direction)
+  - **Full-sized Humanoid Robot R&D** : Led full-stack development of a 170cm humanoid robot; designed layered OS architecture (HAL/Connect/MC/HDS) on ROS2; implemented EtherCAT/USB HAL, FDCAN 1kHz multi-motor real-time control (STM32H7/G4), trajectory planning, inverse kinematics; built sim-to-real pipeline (MjLab/Isaac Lab) with AMP for humanoid gait; developed VLA end-to-end model via LLM+MCP.
+  - **AI Training Platform Backend**: Developed full training pipeline (detection/classification/segmentation/anomaly detection); implemented core operator encryption, weight file encryption, C#/C++ interfaces; filed invention patents and utility model patents.
+
+- *2022.01 - 2022.05* &nbsp; **Research Intern** — Industrial Technology Research Dept., Hitachi China Ltd., Guangzhou Branch (Fortune 500)
+  - Deployed light cnn detection network on a 6-axis robot arm; processed Intel RealSense RGB + 3D point cloud data for workspace plane interpolation to assist robot decision-making.
+
+- *2020.12 - 2023.06* &nbsp; **President** — SCAU Artificial Intelligence Association
+
+
+# 🤖 PhD Research (HKUST-GZ)
+
+**Direction 1 — Locomotion & HSI (Human-Scene Interaction)**
+
+**Direction 2 — Motion Tracking & Whole Body Control & HOI**
+
+**Development — Full-Size 170cm Humanoid Robot**
