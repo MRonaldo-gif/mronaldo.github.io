@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yanheng Mai | 麦彦恒"
 description              : "PhD Student in Robotics & Autonomous Systems at HKUST(GZ). \n Research interests: Humanoid Robots, Locomotion, Motion Tracking, Whole Body Control, Computer Vision, VLA."
-repository               : "MRonaldo-gif/mronaldo.github.io"
+repository               : "Mronaldo-gif/Mronaldo-gif.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Mronaldo-gif"
+  github           : "MRonaldo-gif"
   google_plus      :
   keybase          :
   instagram        :
