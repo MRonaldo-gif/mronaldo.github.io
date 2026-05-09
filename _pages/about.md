@@ -85,7 +85,7 @@ I won **3rd place** at the **2025 World Humanoid Robot Games** (Field Events) an
 - *2025* &nbsp; 🥉 **3rd Place** — 2025 World Humanoid Robot Games (世界人形机器人运动会), Field Events
 - *2025* &nbsp; 🏆 **Champion** — Zayed Charity Run Robot Marathon (扎耶德慈善跑机器人马拉松)
 - *2025* &nbsp; 🏅 **Outstanding Team** — "巧手点天工·航空灵巧手菁英赛"
-- *2024* &nbsp; 🌟 **Annual Outstanding Employee (Innovation Award)** — Semiconductor Company
+- *2024* &nbsp; 🌟 **Annual Outstanding Employee (Innovation Award)** — CLAI-LAB, Suzhou Chenling Optics Co., Ltd
 - *2023* &nbsp; **Second-class Scholarship** — South China Agricultural University
 - *2023* &nbsp; **Provincial Bronze** — China "互联网+" Innovation & Entrepreneurship Competition
 - *2022* &nbsp; **Provincial Bronze** — China "互联网+" Innovation & Entrepreneurship Competition
@@ -97,7 +97,7 @@ I won **3rd place** at the **2025 World Humanoid Robot Games** (Field Events) an
 
 # 📖 Educations
 - *2026 - present* &nbsp; **Ph.D. in Robotics and Autonomous Systems** — The Hong Kong University of Science and Technology (Guangzhou), HKUST-GZ
-- *2020 - 2024* &nbsp; **B.Eng. in Artificial Intelligence** — South China Agricultural University (SCAU, 双一流高校)
+- *2020 - 2024* &nbsp; **B.Eng. in Artificial Intelligence** — South China Agricultural University (SCAU)
 
 
 # 💻 Work Experience & Projects
@@ -106,7 +106,7 @@ I won **3rd place** at the **2025 World Humanoid Robot Games** (Field Events) an
   - **Full-sized Humanoid Robot R&D** : Led full-stack development of a 170cm humanoid robot; designed layered OS architecture (HAL/Connect/MC/HDS) on ROS2; implemented EtherCAT/USB HAL, FDCAN 1kHz multi-motor real-time control (STM32H7/G4), trajectory planning, inverse kinematics; built sim-to-real pipeline (MjLab/Isaac Lab) with AMP for humanoid gait; developed VLA end-to-end model via LLM+MCP.
   - **AI Training Platform Backend**: Developed full training pipeline (detection/classification/segmentation/anomaly detection); implemented core operator encryption, weight file encryption, C#/C++ interfaces; filed invention patents and utility model patents.
 
-- *2022.01 - 2022.05* &nbsp; **Research Intern** — Industrial Technology Research Dept., Hitachi China Ltd., Guangzhou Branch (Fortune 500)
+- *2022.01 - 2022.05* &nbsp; **Research Intern** — Industrial Technology Research Dept., Hitachi China Ltd., Guangzhou Branch
   - Deployed light cnn detection network on a 6-axis robot arm; processed Intel RealSense RGB + 3D point cloud data for workspace plane interpolation to assist robot decision-making.
 
 - *2020.12 - 2023.06* &nbsp; **President** — SCAU Artificial Intelligence Association
